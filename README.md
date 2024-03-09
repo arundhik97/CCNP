@@ -28,3 +28,8 @@ PC1> ip 192.168.1.100 255.255.255.0 192.168.1.1
 <img width="484" alt="Show IP Route R1 after redistribution" src="https://github.com/arundhik97/CCNP/assets/38269066/cfc175dc-1020-4c67-8953-d83817a40d47">
 <img width="473" alt="R4 after redistribution" src="https://github.com/arundhik97/CCNP/assets/38269066/f4c14f1c-893f-4e7f-ac0b-6bf8ed23077b">
 
+
+<h2>LSA Types</h2>
+<img width="503" alt="R1 OSPF ip database" src="https://github.com/arundhik97/CCNP/assets/38269066/80ec3ab6-a58a-482a-9367-14de6add60c0">
+<img width="520" alt="R2 IP OSPF Database" src="https://github.com/arundhik97/CCNP/assets/38269066/235e9de3-99e1-4977-b7b3-83f6346e0d0f">
+
